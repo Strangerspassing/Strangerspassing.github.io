@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F01%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[发布文章测试]]></title>
+    <url>%2F2017%2F05%2F22%2F%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[自己也算是摸爬滚打搭建成功，然后自己再重新安装部署一遍，把完整步骤分享给大家，同时最后有一些连接，如果我的步骤不行，大家可以参考其他人的（这个有点花费时间，大家提前有个心理准备 - _-）]]></content>
+      <categories>
+        <category>技巧</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[关于]]></title>
+    <url>%2F2016%2F07%2F04%2Findex%2F</url>
+    <content type="text"><![CDATA[关于Jing’s Blog的内容均来自于我的技术拙见与生活感悟。 开通个人博客是一件很纯粹的事情 - 记录并分享。做这件事的前提：必须是自己喜欢做的事情。这个过程有太多东西需要忙活，没有兴趣作为基础，只会涂添烦扰。]]></content>
+  </entry>
+</search>
